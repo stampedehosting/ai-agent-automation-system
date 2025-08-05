@@ -1,0 +1,32 @@
+# Core AI and Automation Libraries
+openai>=1.0.0
+elevenlabs>=0.2.0
+
+# Screen Interaction and Browser Automation
+playwright>=1.40.0
+selenium>=4.15.0
+pyautogui>=0.9.54
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Web Framework and API
+Flask>=2.3.0
+requests>=2.31.0
+
+# AWS Integration
+boto3>=1.34.0
+botocore>=1.34.0
+
+# Database and Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+schedule>=1.2.0
+psutil>=5.9.0
+
+# Development and Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
